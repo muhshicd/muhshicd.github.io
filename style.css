@@ -1,10 +1,19 @@
 .jumbotron {
   padding-top: 7rem;
-  background-color: #9ddcfa;
+  background-color: #3b89ff;
+}
+#sertification {
+  padding-top: 5rem;
+  background-color: #3b89ff;
+}
+#about {
+  padding-top: 8rem;
+}
+
+#contact {
+  padding-top: 5rem;
 }
 #galleri {
-  background-color: #9ddcfa;
-}
-section {
-  padding-top: 5rem;
+  padding-top: 4rem;
+  background-color: #3b89ff;
 }
